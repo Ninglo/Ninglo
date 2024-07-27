@@ -15,6 +15,5 @@
 #### Others
 
 - [Shuangpin Practice](https://github.com/Ninglo/shuangpin)
-- [Joy Mapper](https://github.com/Ninglo/joyMapper)
 
 ![Ninglo's GitHub Status](https://github-readme-stats.vercel.app/api?username=ninglo&count_private=true&show_icons=true&include_all_commits=true&line_height=24)
