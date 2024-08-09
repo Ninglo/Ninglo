@@ -4,7 +4,7 @@
 Hi，我叫酒嘉年，TikTok 研发工程师，VSCode Contributor & 忠实用户。
 
 - B 站账号 [酒嘉年](https://space.bilibili.com/382665493)，主题是个人成长、软件开发技能分享等方向，感兴趣可以给个关注呀～。
-- 知乎账号 [jojiu](https://www.zhihu.com/people/jiu-jia-nian)，会记录思考过程中一些觉得有趣的想法。
+- 知乎账号 [酒嘉年](https://www.zhihu.com/people/jiu-jia-nian)，会记录思考过程中一些觉得有趣的想法。
 
 ### 个人项目
 - VSCode 插件
