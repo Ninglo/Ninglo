@@ -7,7 +7,9 @@ Hi，我叫酒嘉年。TikTok 研发工程师，VSCode Contributor & 忠实用�
 - 知乎账号 [酒嘉年](https://www.zhihu.com/people/jiu-jia-nian)，会记录思考过程中一些觉得有趣的想法。
 
 ### 个人项目
-- VSCode 插件
+- Agent Tool
+  - [Remote Lab](https://github.com/Ninglo/remotelab) - 远程控制你本地电脑上的 Agents
+- VSCode Extension
   - [Pure GPT](https://marketplace.visualstudio.com/items?itemName=ninglo.pure-gpt) - 支持在 VSCode Chat View 中与 Pure GPT 而非 Copilot 对话
   - [Quick Voice Note](https://marketplace.visualstudio.com/items?itemName=ninglo.quick-voice-note) - 一键在 VSCode 中创建语音笔记
 - 其他
